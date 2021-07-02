@@ -94,9 +94,9 @@
     <!-- current page -->
     <div>
       <br /><br /><br />
-      <h4>Romain Tardif présente</h4>
-      <h1>Le Marly de Romain</h1>
-      <h4>Depuis 2014</h4>
+      <h4>victoria</h4>
+      <h1>Venteprive chess</h1>
+      <h4>Since 1987</h4>
       <router-view />
       <br /><br />
     </div>

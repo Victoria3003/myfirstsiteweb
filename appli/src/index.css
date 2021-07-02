@@ -60,7 +60,7 @@
         }
         
         .navbar-foot {
-            background-color: #f5efeb;
+            background-color: #faaeae;
             font-family: Trebuchet MS;
             color: black !important;
             float: left;
@@ -76,14 +76,14 @@ HomePage
             -webkit-font-smoothing: antialiased;
             -moz-osx-font-smoothing: grayscale;
             text-align: center;
-            color: black;
-            font-family: 'Lora', serif;
+            color: rgb(231, 38, 38);
+            font-family: 'Britannic', serif;
         }
         
         .container {
             width: 1400px;
             height: 550px;
-            background: #f5efeb;
+            background: #d8661a;
             @media (min-width: 1000px) {
                 position: absolute;
                 left: 30%;

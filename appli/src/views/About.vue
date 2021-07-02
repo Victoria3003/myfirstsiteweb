@@ -4,8 +4,7 @@
       <br />
       <div class="home-img">
         <h4>
-          Bonjour, je suis Romain TARDIF, mandataire immobilier indépendant rattaché au
-          réseau iad France.
+          Toi aussi tu aimes les échecs et tu veux trouver des jeu de qualité et pas chères: ce site est fait pour toi!
         </h4>
         <br />
         <table>
